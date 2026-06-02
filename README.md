@@ -1,2 +1,1 @@
-# inspect-data
 bluestock project
